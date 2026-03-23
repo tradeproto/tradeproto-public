@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment & Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+credentials.json
+secrets/
+
+# Build outputs
+dist/
+build/
+out/
+artifacts/
+cache/
+typechain-types/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Hardhat / Foundry
+coverage/
+coverage.json
+gasReporterOutput.json
+
+# ZK Circuit artifacts
+*.wtns
+*.zkey
+*.r1cs
+ptau/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
