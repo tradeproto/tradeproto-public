@@ -176,7 +176,7 @@ A self-contained verification package bundling identity artifacts, attestation h
 TradeProto implements a comprehensive OFAC compliance framework for energy commodity transactions, including:
 
 - **General License** and **Specific License** classification
-- Transaction flow architecture for Venezuelan crude and refined products
+- Transaction flow architecture for Compliant crude and refined products
 - CIF (Cost, Insurance, Freight) structuring through Rotterdam and Houston
 - Required documentation chain (KYC, CIS, SPA, FCO, LOI, B/L, SGS)
 - Non-US banking corridor considerations
